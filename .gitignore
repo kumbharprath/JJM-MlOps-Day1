@@ -1,3 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+reports/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
